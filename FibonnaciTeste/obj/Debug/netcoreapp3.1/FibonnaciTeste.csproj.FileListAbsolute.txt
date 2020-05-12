@@ -1,0 +1,12 @@
+C:\Users\Felipe\source\repos\FibonnaciTeste\bin\Debug\netcoreapp3.1\FibonnaciTeste.exe
+C:\Users\Felipe\source\repos\FibonnaciTeste\bin\Debug\netcoreapp3.1\FibonnaciTeste.deps.json
+C:\Users\Felipe\source\repos\FibonnaciTeste\bin\Debug\netcoreapp3.1\FibonnaciTeste.runtimeconfig.json
+C:\Users\Felipe\source\repos\FibonnaciTeste\bin\Debug\netcoreapp3.1\FibonnaciTeste.runtimeconfig.dev.json
+C:\Users\Felipe\source\repos\FibonnaciTeste\bin\Debug\netcoreapp3.1\FibonnaciTeste.dll
+C:\Users\Felipe\source\repos\FibonnaciTeste\bin\Debug\netcoreapp3.1\FibonnaciTeste.pdb
+C:\Users\Felipe\source\repos\FibonnaciTeste\obj\Debug\netcoreapp3.1\FibonnaciTeste.csprojAssemblyReference.cache
+C:\Users\Felipe\source\repos\FibonnaciTeste\obj\Debug\netcoreapp3.1\FibonnaciTeste.AssemblyInfoInputs.cache
+C:\Users\Felipe\source\repos\FibonnaciTeste\obj\Debug\netcoreapp3.1\FibonnaciTeste.AssemblyInfo.cs
+C:\Users\Felipe\source\repos\FibonnaciTeste\obj\Debug\netcoreapp3.1\FibonnaciTeste.dll
+C:\Users\Felipe\source\repos\FibonnaciTeste\obj\Debug\netcoreapp3.1\FibonnaciTeste.pdb
+C:\Users\Felipe\source\repos\FibonnaciTeste\obj\Debug\netcoreapp3.1\FibonnaciTeste.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+Como você se atualiza tecnicamente?
+R: Eu me atualizo em video aulas e também no dia a dia, pesquisando na internet , buscando especialização, atualmente estou começando a estudar para a certificação 70-483
+Crie uma função para calcular o n-ésimo elemento da Sequência de Fibonacci (fibonacci).
+ps: fonte es ta na pasta [xxxxx]
+calculod e Fibonacci (10)
+	"010
+	01001
+	01001010
+	0100101001001
+	010010100100101001010
+	0100101001001010010100100101001001
+	0100101001001010010100100101001001010010100100101001010	010010100100101001010010010100100101001010010010100101001001	01001001010010100100101001001"
+O que significa SOLID?
+S - > Single Responsability Principle (Princípio da responsabilidade única)
+O - > Open / Closed Principle (Princípio Aberto / Fechado )
+L - > Liskov Substitution Principle (Princípio da substituição de Liskov)
+I - > Interface Segregation Principle (Princípio de Segregação de Interface )
+D - > Dependency Inversion Principle (Princípio de Inversão de Dependência )
+
+Solid trás a ideia de que seja facil de manter, se adaptar, sem mexer e quebrar partes do codigo, facil entendimento,testavel, maximo de reaproveitamento, tempo maximo possivel de utilização, sem codigo procedural,sem duplicação de codigo
+i O que são design patterns? - > Padrões de projetos, soluções para problemas do dia a dia para resolver problemas de forma elegante, como um codigo cheio de 'IFS' onde posso implementar um padrão para evitar e ter um código de qualidade.
+
+ii Quais são os tipos de design patterns? - > Criação, Estrutura, Comportamental
+
+iii Com quais você está familiarizado? Qual é a função deles? - >  Sendo bem sincero eu conheço mais por estudo doq no dia a dia , conheço como (Builder, Factory, Singleton)
+
+iv Qual é sua opinião quanto ao uso de design patterns? - > Algo muito importante, como comentei, infelizmente não trabalhei com Deisgn patterns ainda, mas pelo oq estudo , ter um padrão , seguir um padrão de projeto é interessante pra manter a qualdiade de codigo, manutenção, afins;
+Qual foi o último livro técnico que você leu? Quando foi isso? - > Livro mesmo só li 2, ('Use a cabeça C#' e 'Git e GitHub - Casa do codigo'), meus estudos geralmente esta mais ligado a Video Aulas
+Cite 3 maneiras diferentes de implementar Dependency Inversion. - > Não tenho base suficientes para responder essa pergunta
+Oque são ORMS? - > Mapeamento de objeto relacional, onde o código se comunica diretamente com o Bancao de dados, conheço e já trabalhei com EF e Dapper, já trabalhei tambem mas não tenho muito conhecimento com NHibernate
+O que são microsserviços? - > Microsserviços consiste em separação de serviços autonomos dividindo tarefas em partes , vantagem é que com ele se algo parar por exemplo será uma parte do serviço que irá ter que reparar e não ter que parar toda a esteira.
